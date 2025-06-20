@@ -1,0 +1,7 @@
+google-play-scraper
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
